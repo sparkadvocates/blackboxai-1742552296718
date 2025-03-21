@@ -4,9 +4,11 @@ plugins {
 }
 
 android {
+    namespace "com.example.ainprokashwebviewapp"
     compileSdk 34
 
     defaultConfig {
+        vectorDrawables.useSupportLibrary = true
         applicationId "com.example.ainprokashwebviewapp"
         minSdk 21
         targetSdk 34
