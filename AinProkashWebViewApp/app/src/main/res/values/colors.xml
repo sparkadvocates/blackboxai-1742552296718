@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF1976D2</color>
+    <color name="primary_dark">#FF1565C0</color>
+    <color name="accent">#FF2196F3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="error_background">#FFFAFAFA</color>
+    <color name="toolbar_text_color">#FFFFFFFF</color>
+    <color name="progress_bar_color">#FF1976D2</color>
+    <color name="swipe_refresh_color">#FF1976D2</color>
+    <color name="error_text_color">#FF757575</color>
+    <color name="button_text_color">#FFFFFFFF</color>
+</resources>
